@@ -1,9 +1,9 @@
-## Hi, I'm Ashish 👋
+## Hi, I'm Ashish
 
-- 🧠 AI Engineer at Sky
-- 🎓 Master's in AI
-- 📍 London
-- 🚀 Side hustle: [AutoCua](https://github.com/ComputerUseAgent/AutoCua)
+- AI Engineer at Sky
+- Master's in AI
+- Based in London
+- Side hustle: [AutoCua](https://github.com/ComputerUseAgent/AutoCua)
 
 ### AutoCua — Automatic Computer Use Agent
 
